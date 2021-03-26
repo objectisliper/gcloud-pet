@@ -1,2 +1,6 @@
 .git
 CREDENTIALS_FILE.json
+venv
+.terraform.lock.hcl
+.terraform
+.idea
